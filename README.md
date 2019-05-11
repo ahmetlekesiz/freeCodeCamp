@@ -1,2 +1,2 @@
 # freeCodeCamp
-freeCodeCamp Projects
+freeCodeCamp Projects on HTML, CSS, and JavaScript
